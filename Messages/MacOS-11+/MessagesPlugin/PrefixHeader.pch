@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  typeStatus13
+//
+//  Created by Wolfgang Baird on 1/26/18.
+//Copyright © 2018 Wolfgang Baird. All rights reserved.
+//
+
+#ifndef MessagesPlugin_PrefixHeader_pch
+#define MessagesPlugin_PrefixHeader_pch
+
+#import <Cocoa/Cocoa.h>`
+
+#endif
+

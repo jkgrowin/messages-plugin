@@ -1,0 +1,49 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98674427677ed50870bbe9310a50295dc1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982220ddd892042ccfba921b4fbc6932ca"
+    }
+  ],
+  "containerPath" : "/Users/jakub.tyszkiewicz/workspace/messages-plugin/Messages/MacOS-11+/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/jakub.tyszkiewicz/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jakub.tyszkiewicz/Library/Developer/Xcode/DerivedData/Pods-bkafjhjwlvbvyudzjodfhypofizr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jakub.tyszkiewicz/Library/Developer/Xcode/DerivedData/Pods-bkafjhjwlvbvyudzjodfhypofizr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
